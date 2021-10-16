@@ -4,5 +4,4 @@ Utilizei a lib da Math.h para poder fazer a formula do IMC.
 
 # Fórmula do IMC
 IMC = Peso dividido pela altura ao quadrado
-
 <b>peso / (pow(altura, 2));<b>
